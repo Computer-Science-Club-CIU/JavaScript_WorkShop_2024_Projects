@@ -1,1 +1,1 @@
-# JavaScript_WorkShop_2024_Projects
+# JavaScript_WorkShop_2024_Projects Submission
